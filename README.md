@@ -5,7 +5,9 @@
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igoorfernandes&show_icons=true&theme=transparent)
 ##
-<img aling="center" alt="IgorSQL" height="65" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /> <img aling="center" alt="IgorPython" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /><img aling="center" alt="IgorSQL" height="80" width="80" src="https://icongr.am/devicon/amazonwebservices-plain-wordmark.svg?size=128&color=ffffff"/>
+<img aling="center" alt="SQL" height="65" width="70" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" /> <img aling="center" alt="Python" height="65" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img aling="center" alt="AWS" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"/>
+<img aling="center" alt="Linux" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/6/66/TUX_G2.svg"/>
 ##
 <a href = "mailto:igorfernandess731@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/igor-fernandes-ads/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">

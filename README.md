@@ -1,7 +1,7 @@
 ## Olá sou o Igor Fernandes👋
 
 - 🖥️ Atualmente cursando Análise e Desenvolvimento de Sistemas
-- 📚 Estudando: Python | SQL
+- 📚 Estudando: Python | SQL | AWS | Linux
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igoorfernandes&show_icons=true&theme=transparent)
 ##

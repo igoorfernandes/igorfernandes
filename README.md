@@ -1,4 +1,4 @@
-## Olá sou o Igor Fernandes👋
+## Olá sou o Igor Fernandes 👋
 
 - 🖥️ Atualmente cursando Análise e Desenvolvimento de Sistemas
 - 📚 Estudando: Python | SQL | AWS | Linux | Cloud Computing

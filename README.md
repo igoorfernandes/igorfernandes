@@ -1,10 +1,10 @@
 ## Olá sou o Igor Fernandes 👋
+<img align="center" height="250" alt="coding-time" src="code.gif">
 
 - 🖥️ Atualmente cursando Análise e Desenvolvimento de Sistemas
 - 📚 Estudando: Python | SQL | AWS | Linux | Cloud Computing
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igoorfernandes&show_icons=true&theme=transparent)
-##
 ## Tecnologias do meu dia a dia
 ![pop-os](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)

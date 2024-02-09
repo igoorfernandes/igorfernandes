@@ -1,7 +1,8 @@
 ## Olá sou o Igor Fernandes 👋
 <img align="center" height="250" alt="coding-time" src="code.gif">
 
-- 🖥️ Atualmente cursando Análise e Desenvolvimento de Sistemas
+- 👨🏿‍💻 Estagiário na F1rst Digital Service (Santander Brasil)
+- 💻 Atualmente cursando Análise e Desenvolvimento de Sistemas
 - 📚 Estudando: Python | SQL | AWS | Linux | Cloud Computing
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igoorfernandes&show_icons=true&theme=transparent)

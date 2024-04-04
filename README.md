@@ -3,7 +3,7 @@
 
 - 👨🏿‍💻 Estagiário na F1rst Digital Service (Santander Brasil)
 - 💻 Atualmente cursando Análise e Desenvolvimento de Sistemas
-- 📚 Estudando: Python | SQL | AWS | Linux | Cloud Computing
+- 📚 Estudando: Python | Java | AWS | Linux | Cloud Computing | Docker 
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igoorfernandes&show_icons=true&theme=transparent)
 ## Tecnologias do meu dia a dia

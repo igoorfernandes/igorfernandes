@@ -1,9 +1,9 @@
 ## Olá sou o Igor Fernandes 👋
 <img align="center" height="250" alt="coding-time" src="code.gif">
 
-- 👨🏿‍💻 Estagiário na F1rst Digital Service (Santander Brasil)
+- 👨🏿‍💻 Estagiário na F1rst Digital Services (Santander Brasil)
 - 💻 Atualmente cursando Análise e Desenvolvimento de Sistemas
-- 📚 Estudando: Python | Java | AWS | Linux | Cloud Computing | Docker 
+- 📚 Estudando: DevOps 💻🔧
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igoorfernandes&show_icons=true&theme=transparent)
 ## Tecnologias do meu dia a dia

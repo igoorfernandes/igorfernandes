@@ -3,7 +3,7 @@
 
 - 👨🏿‍💻 Intelligence Engineering in F1rst Digital Services (Santander Brasil)
 - 💻 Atualmente cursando Análise e Desenvolvimento de Sistemas
-- 📚 Estudando: DevOps 💻🔧
+- 📚 Estudando: DevOps
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igoorfernandes&show_icons=true&theme=transparent)
 ## Tecnologias do meu dia a dia

@@ -5,9 +5,9 @@
 
 ## 🚀 Sobre Mim
 
-👨🏿‍💻 **Profissão**: Intelligence Engineer @ F1rst Digital Services (Santander Brasil)  
-📚 **Estudando**: DevOps, CI/CD, Python, Go.
-🌱 **Interesses**: Back-End, Automação, Infraestrutura como Código, Cloud Computing, DevOps
+👨🏿‍💻 **Profissão**: Intelligence Engineer @ F1rst Digital Services (Santander Brasil).      
+📚 **Estudando**: DevOps, CI/CD, Python, Go.      
+🌱 **Interesses**: Back-End, Automação, Infraestrutura como Código, Cloud Computing, DevOps.       
 🎯 **Objetivo**: Se especializar em DevOps e Cloud.
 
 ---
@@ -29,19 +29,19 @@
 ## 📈 Estatísticas do GitHub
 
 <p align="center"> 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=igoorfernandes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoorfernandes&layout=compact&langs_count=7&theme=radical"/> 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=igoorfernandes&theme=radical" alt="streak-stats"> 
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=igoorfernandes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoorfernandes&layout=compact&langs_count=7&theme=radical"/> 
+<img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=igoorfernandes&theme=radical" alt="streak-stats"> 
 </p>
 
 ---
 
 ## 📚 Meus Estudos Atuais
 
-**DevOps**: Pipeline de CI/CD com Jenkins, Kubernetes, Docker
-**Cloud Computing**: Trabalhando com AWS (EC2, S3, Lambda)
-**Python & Go**: Foco em automação e soluções escaláveis
-**Automação de Tarefas**: Aumentando a eficiência e diminuindo o retrabalho com scripts personalizados
+**DevOps**: Pipeline de CI/CD com Jenkins, Kubernetes, Docker.       
+**Cloud Computing**: Trabalhando com AWS (EC2, S3, Lambda).         
+**Python & Go**: Foco em automação e soluções escaláveis.       
+**Automação de Tarefas**: Aumentando a eficiência e diminuindo o retrabalho com scripts personalizados.
 
 ## 💬 Vamos nos conectar! 🚀
 
